@@ -1,0 +1,12 @@
+D:\Facultate-an 3\Medii de programare si dezvoltare\MedicalLotModel\bin\Debug\MedicalLotModel.dll
+D:\Facultate-an 3\Medii de programare si dezvoltare\MedicalLotModel\bin\Debug\MedicalLotModel.pdb
+D:\Facultate-an 3\Medii de programare si dezvoltare\MedicalLotModel\obj\Debug\MedicalLotModel.csproj.AssemblyReference.cache
+D:\Facultate-an 3\Medii de programare si dezvoltare\MedicalLotModel\obj\Debug\MedicalLotModel.csproj.CoreCompileInputs.cache
+D:\Facultate-an 3\Medii de programare si dezvoltare\MedicalLotModel\obj\Debug\MedicalLotModel.dll
+D:\Facultate-an 3\Medii de programare si dezvoltare\MedicalLotModel\obj\Debug\MedicalLotModel.pdb
+D:\Facultate-an 3\Medii de programare si dezvoltare\MedicalLotModel\bin\Debug\MedicalLotModel.dll.config
+D:\Facultate-an 3\Medii de programare si dezvoltare\MedicalLotModel\bin\Debug\EntityFramework.dll
+D:\Facultate-an 3\Medii de programare si dezvoltare\MedicalLotModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Facultate-an 3\Medii de programare si dezvoltare\MedicalLotModel\bin\Debug\EntityFramework.xml
+D:\Facultate-an 3\Medii de programare si dezvoltare\MedicalLotModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Facultate-an 3\Medii de programare si dezvoltare\MedicalLotModel\obj\Debug\MedicalLotModel.csproj.CopyComplete
